@@ -289,6 +289,14 @@ footer .container{
     height: 950px;
 }
 
+.warnings{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #B06AB3;
+    padding-top: 20px;
+}
+
 @media (min-width:720px){
     header{
         position: fixed;
